@@ -20,13 +20,13 @@ The following is an example of the folder and file structure.
 
     blocks/  
       block-name-1/  
-         blocks.css  
-         blocks.php  
+         block.css  
+         block.php  
          block.json  
          readme.md  
       block-name-2/  
-         blocks.css  
-         blocks.php  
+         block.css  
+         block.php  
          block.json  
          readme.md
 
