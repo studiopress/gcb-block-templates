@@ -1,0 +1,77 @@
+.gcb-loyal-customer {
+    position: relative;
+    border-radius: 20px;
+    text-align: center;
+    overflow: hidden;
+    background-position: center;
+}
+
+.gcb-loyal-customer h2 {
+    font-size:  44px;
+}
+
+.gcb-loyal-customer>div {
+    padding: 60px;
+    background-color: #dae0df;
+}
+
+.gcb-loyal-customer button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border-radius: 3px;
+    background-color:#ea533c;
+    color:#ffffff;
+    font-family: monospace;
+    margin-top: 20px;
+    padding: 0 2rem 0 0;
+    margin: auto;
+    padding-left: 2px;
+    border: none;
+}
+
+.gcb-loyal-customer button:before {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    left: -6px;
+    top: 19px;
+    background-color: #dae0df;
+}
+
+.gcb-loyal-customer button:after {
+    content: "";
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    right: -6px;
+    top: 19px;
+    background-color: #dae0df;
+}
+
+.gcb-loyal-customer button div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    border-right: 6px dotted #dae0df;
+    margin-right: 2rem;
+    height: 100%;
+}
+
+.gcb-loyal-customer button svg {
+    width: 20px;
+    height: 20px;
+}
+
+.gcb-loyal-customer label {
+    font-size: 14px;
+    font-family: monospace;
+    display: block;
+    opacity: 0.5;
+    margin-top: 1rem;
+}
