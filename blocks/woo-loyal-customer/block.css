@@ -7,7 +7,7 @@
 }
 
 .gcb-loyal-customer h2 {
-    font-size:  44px;
+    font-size: 44px;
 }
 
 .gcb-loyal-customer>div {
@@ -21,8 +21,8 @@
     align-items: center;
     height: 50px;
     border-radius: 3px;
-    background-color:#ea533c;
-    color:#ffffff;
+    background-color: #ea533c;
+    color: #fff;
     font-family: monospace;
     margin-top: 20px;
     padding: 0 2rem 0 0;
