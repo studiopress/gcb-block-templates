@@ -1,6 +1,6 @@
 # Lead Magnet CTA
 ## Block Description
-A custom block that displays a lead magnet that includes a background image, lead magnet image, text, and a button.f
+A custom block that displays a lead magnet that includes a background image, lead magnet image, text, and a button.
 
 ## Dependencies
 - n/a
